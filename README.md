@@ -97,7 +97,7 @@ colcon 安装请参考如下链接：
 
 每台览沃 LiDAR 设备拥有一个唯一的广播码。广播码由14位字符长度的序列号和一个额外的字符组成（ 1、2或者 3），一共 15 位字符长度，上述序列号位于 LiDAR 机身外壳的二维码下面（见下图）。广播码被用来指定要连接的 LiDAR 设备，详细组成格式如下：
 
-&ensp;&ensp;&ensp;&ensp;![Broadcast Code](images/broadcast_code.png)
+&ensp;&ensp;&ensp;&ensp;![Broadcast Code](.github/images/broadcast_code.png)
 
 &ensp;&ensp;&ensp;&ensp;***说明：***
 
